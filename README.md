@@ -18,7 +18,7 @@ module.createGenesisBlock()
 module.addNormalBlock("data")
 
 module.printTokenChain()
-println(module.verifyTokenChain()
+println(module.verifyTokenChain())
 ```
 
 ## Token Data
